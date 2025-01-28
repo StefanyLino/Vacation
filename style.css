@@ -15,6 +15,7 @@
   }
   
 body {
+    height: -10;
     box-sizing: border-box;
     padding: 0;
     margin: 0;
@@ -23,14 +24,14 @@ body {
     font-style: normal;
     color: var(--background);   
     background-color: var(--background);
-    margin: 0;
-    padding: 0;
-    height: 100vh;
+
+   
 }
 
 html{
-    height: 100vh;
+    height: 110vh;
 }
+
 
 a{
     text-decoration: none;
@@ -265,4 +266,72 @@ aside{
     color: black;
     display: flex;
     justify-content: center;
+}
+
+.tudo{
+    background-image: url(Assets/Inicial\ \(1136\ x\ 475\ px\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Estilização do container */
+.form {
+    background-color: var(--beige);
+    border: 2px solid var(--darkbeige);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    text-align: center;
+}
+
+/* Estilização do título */
+.form h2 {
+    color: var(--darkbeige);
+    margin-bottom: 20px;
+}
+
+/* Estilização dos inputs */
+form input {
+    width: 90%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid var(--beige);
+    background-color: #ffffff;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+/* Estilização do botão */
+form button {
+    background-color: var(--darkbeige);
+    color: #000000;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+form button:hover {
+    background-color: var(--background);
+}
+
+/* Estilização das mensagens de erro */
+.message.error {
+    color: rgb(0, 0, 0);
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+/* Estilização dos parágrafos (label e texto adicional) */
+form p {
+    color: black;
+    margin: 10px 0;
+    font-size: 14px;
 }
