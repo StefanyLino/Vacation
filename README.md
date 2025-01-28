@@ -7,9 +7,11 @@
 >These show how the web site will look like.
 #
 And these are the results!
-<img width="947" alt="image" src="https://github.com/user-attachments/assets/090673d7-1ff3-48dd-9cf3-e9e32077915b" />
-<img width="944" alt="image" src="https://github.com/user-attachments/assets/0375620e-d2cd-402a-b2cc-4f73256ab591" />
+<img width="945" alt="image" src="https://github.com/user-attachments/assets/3cb9c56f-20be-4e43-a060-d324b72da214" />
+<img width="945" alt="image" src="https://github.com/user-attachments/assets/090673d7-1ff3-48dd-9cf3-e9e32077915b" />
+<img width="945" alt="image" src="https://github.com/user-attachments/assets/0375620e-d2cd-402a-b2cc-4f73256ab591" />
 <img width="945" alt="image" src="https://github.com/user-attachments/assets/bfb1057d-6a46-454a-aa92-367412f84db5" />
+
 
 If you want to see the full results, check this [video](Resultado.mp4)! 
 
