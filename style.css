@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+
+
+:root {
+    --background: #ECE6D3;
+    --wine: #501415; 
+    --bluedark: #1D2C59; 
+    --regblue: #2B4182;
+    --darkbeige: #9B7039;
+    --beige: #D0A875;
+    --darkgreen: #4B5126;
+    --green: #6A6F4C;
+    --darkorange: #913013;
+    --orange: #A53513;
+  }
+  
+
+
+body {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: "Krona One", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: var(--background);   
+    background-color: var(--background);
+    margin: 0;
+    padding: 0;
+    height: 100vh; 
+}
+
+
+.red {
+    margin-bottom: 10px;
+    position: sticky;
+    height: 65px;
+    background: var(--wine);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.blue {
+    margin-bottom: 10px;
+    position: sticky;
+    height: 65px;
+    background: var(--bluedark);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.beige {
+    margin-bottom: 10px;
+    position: sticky;
+    height: 65px;
+    background: var(--darkbeige);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.green {
+    margin-bottom: 10px;
+    position: sticky;
+    height: 65px;
+    background: var(--darkgreen);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.orange {
+    margin-bottom: 10px;
+    position: sticky;
+    height: 65px;
+    background: var(--darkorange);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logo {
+   margin: 0;
+   padding: 0;
+}
+
+.banner{
+   margin-left: 10px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+
+.card {
+    display: flex;
+    flex-direction: row;
+    padding: 11px;
+}
+
+.card4 {
+    padding-left: 12px;
+    padding-bottom: px;
+}
+
+.bluecard {
+    background-color: var(--regblue);
+    display: flex;
+    flex-direction: row;
+}
+
+.beigecard {
+    background-color: var(--beige);
+    display: flex;
+    flex-direction: row;
+}
+
+.greencard {
+    background-color: var(--green);
+    display: flex;
+    flex-direction: row;
+}
+.orangecard {
+    background-color: var(--orange);
+    display: flex;
+    flex-direction: row;
+}
+
+aside {
+    background-color: var(--wine);
+    margin-right: 10px;
+    width: 13%;
+    float: right;
+}
+
+.text h3{
+    text-align: center;
+}
+
+.text p{
+    font-size: 25.17px;
+    padding: 5px;
+    margin-bottom: 16.5px;
+}
+
+.sidestar{
+    display: flex;
+    justify-content: center;
+}
+.redfoot{
+    background-color: var(--wine);
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+}
+
+.bluefoot{
+    background-color: var(--bluedark);
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+}
+
+.beigefoot{
+    background-color: var(--darkbeige);
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+}
+
+.greenfoot{
+    background-color: var(--darkgreen);
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+}
+
+.orangefoot{
+    background-color: var(--darkorange);
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+}
+
