@@ -1,4 +1,4 @@
-<img width="945" alt="image" src="https://github.com/user-attachments/assets/677f2038-ecbb-4bad-a088-1c7d159c92ae" /># Vacation ⋆｡°✩
+# Vacation ⋆｡°✩
 ## Here is how I created a web site, based on how my vacation went!
 - In this website I used HTML (HyperText Markup Language) and CSS (Cascading Style Sheets)!
 #
