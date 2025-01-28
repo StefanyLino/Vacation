@@ -11,7 +11,7 @@ And these are the results!
 <img width="944" alt="image" src="https://github.com/user-attachments/assets/0375620e-d2cd-402a-b2cc-4f73256ab591" />
 <img width="945" alt="image" src="https://github.com/user-attachments/assets/bfb1057d-6a46-454a-aa92-367412f84db5" />
 
-If you want to see the full results, check this [video]! 
+If you want to see the full results, check this [video](Resultado.mp4)! 
 
 
 
